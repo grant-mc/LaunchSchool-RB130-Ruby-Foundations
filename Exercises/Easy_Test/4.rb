@@ -1,0 +1,1 @@
+assert_equals(true, list.empty?)

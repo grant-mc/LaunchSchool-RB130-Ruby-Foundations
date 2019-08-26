@@ -1,0 +1,1 @@
+assert_Kind_of(Numeric, value)
